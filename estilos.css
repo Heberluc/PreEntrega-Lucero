@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.lista-servicios { 
+    background-color: rgb(175, 238, 124);
+    padding: 20px;
+    width: 300px;
+    margin:0 auto;
+}
