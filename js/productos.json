@@ -1,0 +1,182 @@
+[
+    {
+        "id": "damas-01",
+        "titulo": "Damas 01",
+        "imagen": "./img/damas/01.webp",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "damas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "damas-02",
+        "titulo": "Damas 02",
+        "imagen": "./img/damas/02.webp",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "damas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "damas-03",
+        "titulo": "Damas 03",
+        "imagen": "./img/damas/03.webp",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "damas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "damas-04",
+        "titulo": "Damas 04",
+        "imagen": "./img/damas/04.webp",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "damas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "damas-05",
+        "titulo": "Damas 05",
+        "imagen": "./img/damas/05.webp",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "damas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hombres-01",
+        "titulo": "Hombres 01",
+        "imagen": "./img/hombres/01.webp",
+        "categoria": {
+            "nombre": "Hombres",
+            "id": "hombres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hombres-02",
+        "titulo": "Hombres 02",
+        "imagen": "./img/hombres/02.webp",
+        "categoria": {
+            "nombre": "Hombres",
+            "id": "hombres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hombres-03",
+        "titulo": "Hombres 03",
+        "imagen": "./img/hombres/03.webp",
+        "categoria": {
+            "nombre": "Hombres",
+            "id": "hombres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hombres-04",
+        "titulo": "Hombres 04",
+        "imagen": "./img/hombres/04.webp",
+        "categoria": {
+            "nombre": "Hombres",
+            "id": "hombres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hombres-05",
+        "titulo": "Hombres 05",
+        "imagen": "./img/hombres/05.webp",
+        "categoria": {
+            "nombre": "Hombres",
+            "id": "hombres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hombres-06",
+        "titulo": "Hombres 06",
+        "imagen": "./img/hombres/06.webp",
+        "categoria": {
+            "nombre": "Hombres",
+            "id": "hombres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hombres-07",
+        "titulo": "Hombres 07",
+        "imagen": "./img/hombres/07.webp",
+        "categoria": {
+            "nombre": "Hombres",
+            "id": "hombres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "hombres-08",
+        "titulo": "Hombres 08",
+        "imagen": "./img/hombres/08.webp",
+        "categoria": {
+            "nombre": "Hombres",
+            "id": "hombres"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "niños-01",
+        "titulo": "Niños 01",
+        "imagen": "./img/niños/01.webp",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "niños-02",
+        "titulo": "Niños 02",
+        "imagen": "./img/niños/02.webp",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "niños-03",
+        "titulo": "Niños 03",
+        "imagen": "./img/niños/03.webp",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "niños-04",
+        "titulo": "Niños 04",
+        "imagen": "./img/niños/04.webp",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "niños-05",
+        "titulo": "Niños 05",
+        "imagen": "./img/niños/05.webp",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 1000
+    }
+]
